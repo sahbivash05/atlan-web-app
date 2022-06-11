@@ -41,7 +41,7 @@ to insert any new data, the format should be as given below:
 
 ## Page load time
 
-The page load time of my application is 338ms.
+By calculating the load time of my site I found 121ms.
 
 I calculated load time of my website by using this tool:
-[Load time tool](https://tool.pingdom.com/#60407b8021400000)
+[Load time tool](https://tool.pingdom.com/#6054e9896ac00000)
